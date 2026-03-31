@@ -63,4 +63,3 @@ Going forward, I'll be prioritizing teardowns of AI-native products and products
 If you're a PM who does this kind of thinking and wants to exchange notes, I'm always open to a conversation.
 
 [LinkedIn](https://www.linkedin.com/in/mukuldewangan/) · [GitHub](https://github.com/dvmukul)
-
