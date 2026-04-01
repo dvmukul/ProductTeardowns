@@ -22,6 +22,7 @@ I also pay particular attention to **how AI is reshaping each product's strategy
 |---|---|---|---|
 | **Duolingo** | Consumer / EdTech | AI roleplay, real-time translation threat, LLM disruption risk | [→ Read](Duolingo_Teardown.md) |
 | **Splitwise** | Consumer / Fintech | AI-assisted expense parsing opportunity | [→ Read](Splitwise_Teardown.md) |
+| **Perplexity** | AI-Native / Search | Answer engine vs. Google Search, publisher conflict, enterprise pivot | [→ Read](Perplexity_Teardown.md) |
 
 *New teardowns added periodically. Watch the repo to get notified.*
 
