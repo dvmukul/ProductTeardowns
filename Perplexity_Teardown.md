@@ -1,6 +1,8 @@
 # Perplexity Teardown
 *Benchmarked against Google Search*
 
+*Author: Mukul Dewangan*
+
 ---
 
 ## 📱 1. Product Overview & Positioning
