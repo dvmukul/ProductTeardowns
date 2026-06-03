@@ -25,6 +25,7 @@ I also pay particular attention to **how AI is reshaping each product's strategy
 | **Perplexity** | AI-Native / Search | Answer engine vs. Google Search, publisher conflict, enterprise pivot | [→ Read](Perplexity_Teardown.md) |
 | **LinkedIn Job Matching** | Professional Network / HR Tech | LLM-powered matching vs. Indeed, recruiter revenue threat, AI bias risk | [→ Read](LinkedIn_JobMatching_Teardown.md) |
 | **Character.AI** | AI-Native / Consumer Social | AI companionship vs. Replika, parasocial attachment mechanics, minor safety risk | [→ Read](CharacterAI_Teardown.md) |
+| **Grammarly** | AI Writing Assistant / Productivity | Ambient AI vs. native Copilot/Apple Intelligence threat, Superhuman suite pivot, freemium conversion pressure | [→ Read](Grammarly_Teardown.md) |
 
 *New teardowns added periodically. Watch the repo to get notified.*
 
